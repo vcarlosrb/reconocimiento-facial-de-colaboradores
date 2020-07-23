@@ -1,4 +1,4 @@
-# Reconocimiento facial de colaboradores usando Facenet y Siamese Networks
+# Reconocimiento facial de colaboradores usando Facenet
 
 
 ## Problematica
@@ -53,7 +53,7 @@ Para el paso de detección de rostro nos apoyamos de la funcion de **OpenCV "Haa
 Se tomo como base el siguiente proyecto: [FaceRecog](https://github.com/susantabiswas/FaceRecog)
   
 ## 1. Requisitos
-Ingresar a la carpeta "Implementación del sistema". Descargar el modelo en el siguiente enlace [facnet_keras.h5](https://drive.google.com/file/d/1wsJs5ZnhI7meqdOX6S9Indm9l1zmsisH/view?usp=sharing), posteriormente guardarlo dentro de la carpeta "models".
+Ingresar a la carpeta "Implementación del sistema". Descargar el modelo en el siguiente enlace [RS_facenet_georgia.h5](https://drive.google.com/file/d/1BKt28nck-Q4wBQ9PWd6T3h5xmzYQc8ZR/view?usp=sharing), posteriormente guardarlo dentro de la carpeta "models".
 
 ## 2. Reconocimiento Facial
 1. Iniciar la base de datos
